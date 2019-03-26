@@ -1,2 +1,3 @@
-ceshi git init mingling
-add yihang
+# 转盘抽奖
+测试git命令
+添加一行
